@@ -179,11 +179,7 @@ This highlights the value of Endpoint Detection and Response (EDR) platforms, wh
 
 ## Continuous Monitoring Enhancements
 
-Future enhancements to the SOC Lab include researching shell-level instrumentation techniques such as:
-
-```bash
-PROMPT_COMMAND
-```
+Future enhancements to the SOC Lab include researching shell-level instrumentation techniques such as: `PROMPT_COMMAND`
 
 ```bash
 export PROMPT_COMMAND='logger -p local6.notice -t bash_history "$(whoami) [$$]: $(history 1 | sed "s/^[ ]*[0-9]*[ ]*//")"'
