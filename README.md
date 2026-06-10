@@ -1,4 +1,4 @@
-# Insider-Threat-I
+# Insider-Threat I
 
 **Project Type:** Operational Visibility & Purple Team Adversary Emulation
 
@@ -210,4 +210,4 @@ This project demonstrates how a seemingly benign insider operating with valid cr
 Through targeted kernel-level auditing and SIEM integration, critical process visibility gaps were eliminated, enabling meaningful detection and monitoring of insider threat activity without introducing excessive telemetry volume.
 
 Connect with me on socials:
-X (fornerly twitter) : [redacted](https://x.com/thatboringbro)
+X (formerly twitter) : [redacted](https://x.com/thatboringbro)
