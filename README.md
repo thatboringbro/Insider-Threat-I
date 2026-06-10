@@ -185,6 +185,10 @@ Future enhancements to the SOC Lab include researching shell-level instrumentati
 PROMPT_COMMAND
 ```
 
+```bash
+export PROMPT_COMMAND='logger -p local6.notice -t bash_history "$(whoami) [$$]: $(history 1 | sed "s/^[ ]*[0-9]*[ ]*//")"'
+```
+
 to securely capture terminal activity and stream command execution data to syslog before an adversary can leverage history-evasion methods such as:
 
 ```bash
