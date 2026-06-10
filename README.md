@@ -2,6 +2,8 @@
 
 **Project Type:** Operational Visibility & Purple Team Adversary Emulation
 
+**Screenshots:** See `/screenshots/` folder for screenshots of every stage of the project from attack to detection
+
 ---
 
 ## 📌 Executive Summary
@@ -206,3 +208,6 @@ Additional roadmap items include:
 This project demonstrates how a seemingly benign insider operating with valid credentials can execute a complete attack chain—including reconnaissance, access, execution, exfiltration, and impact—while remaining largely invisible to default Linux logging configurations.
 
 Through targeted kernel-level auditing and SIEM integration, critical process visibility gaps were eliminated, enabling meaningful detection and monitoring of insider threat activity without introducing excessive telemetry volume.
+
+Connect with me on socials:
+X (fornerly twitter) : [redacted](https://x.com/thatboringbro)
